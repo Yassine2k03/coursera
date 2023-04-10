@@ -1,13 +1,51 @@
 body{
-    background-color:blue
+    background-image: url(https://lh3.googleusercontent.com/p/AF1QipPVCDCrZ8U5P6RR0kc1dRSuzCS3HrNUHuZmEH8j=w1080-h608-p-no-v0);
+    height: auto;
     
 }
 ul{
-    color :red;
+    font-style: italic;
+    opacity: .75;
+    font-size: 20px;
+    color: gold;
+    background-color: black;
 }
 p{
-    color: red
+    color: white;
+    background-color: transparent;
 
 }
+.highlight{
+    font-style: italic;
+    background-color: black;
+    color: aliceblue;
+    opacity: .75;
+    font-size: 32px
+}
+#coq{
+    color: gold;
+    background-color: black;
+    font-size: 32px;
+}
+article>p{
+    font-style: italic;
+    opacity: .75;
+    font-size: 32px;
+    color: gold;
+    background-color: black;
 
+}
+#btata{
+    margin: 0%;
+    padding: 0%;
+    padding-top: 10px;
+    text-align: center;
+}
+#cpy{
+    color: gold;
+    background-color: black;
+     font-style: italic;
+    opacity: .75;
+    font-size: 32px;
+}
     
